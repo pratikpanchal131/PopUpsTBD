@@ -1,0 +1,6 @@
+framework module PopUpsTBD {
+  umbrella header "PopUpsTBD-umbrella.h"
+
+  export *
+  module * { export * }
+}

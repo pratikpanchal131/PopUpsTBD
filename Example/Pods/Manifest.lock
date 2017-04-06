@@ -1,0 +1,16 @@
+PODS:
+  - PopUpsTBD (0.1.0)
+
+DEPENDENCIES:
+  - PopUpsTBD (from `../`)
+
+EXTERNAL SOURCES:
+  PopUpsTBD:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PopUpsTBD: 604bf064cd13fd594b43e852abc70cf1ecc937c7
+
+PODFILE CHECKSUM: 63c851dd72188994019f921a6f9ccd9caa678ad4
+
+COCOAPODS: 1.2.0
